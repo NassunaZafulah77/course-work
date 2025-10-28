@@ -1,0 +1,24 @@
+body{
+    background-color: aliceblue;
+    margin: 50px;
+}
+
+.nav{
+    display:flex;
+    justify-content: space-around;
+    background-color: green ;
+    color: white;
+    padding: 20px;
+}
+
+.nav ol{
+    display:flex;
+    list-style-type: none;
+}
+
+.nav ol li{
+    padding-left: 15px;
+}
+.exactlinks{
+    border: 1px solid grey;
+}
