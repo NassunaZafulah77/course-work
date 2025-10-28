@@ -1,0 +1,33 @@
+body{
+    background-color: wheat;
+    display: flex;
+    margin: 20px;
+    padding: 20px;
+    justify-content: center;
+}
+.blog{
+    background-color: white;
+}
+.blog1{
+    flex-basis: 25%;
+    padding: 10px;
+    margin: 5px;
+    border: 2px black light;
+}
+.blog2{
+ flex-basis: 25%;
+    padding: 10px;
+    margin: 5px;
+    border: 2px black light;
+    
+}
+.blog3{
+     flex-basis: 25%;
+    padding: 10px;
+    margin: 5px;
+    border: 2px black light;
+}
+#image{
+    /* width: 100%; */
+    /* height: auto; */
+}
